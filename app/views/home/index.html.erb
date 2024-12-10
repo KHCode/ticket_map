@@ -1,0 +1,5 @@
+This is home.
+<% @nba_games_with_dates.each do |game| %>
+  <h1><%= game[:name] %></h1>
+  <h3><%= game[:date] %></h3>
+<% end %>

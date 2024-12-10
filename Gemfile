@@ -70,3 +70,7 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+gem 'rest-client'
+gem 'pry'
+gem 'figaro', '~> 1.1', '>= 1.1.1'
