@@ -74,3 +74,4 @@ end
 gem 'rest-client'
 gem 'pry'
 gem 'figaro', '~> 1.1', '>= 1.1.1'
+gem 'annotate'
